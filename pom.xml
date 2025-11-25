@@ -35,7 +35,7 @@
 </dependencies>
 
  <build>
-    <finalName>MyConstruccion</finalName>
+    <finalName>Platinum</finalName>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
